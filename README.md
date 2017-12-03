@@ -1,5 +1,5 @@
 # VisionAlpha
-_Interactive OpenCV webcam color picker program._
+_Interactive OpenCV webcam color picker._
 
 It's basically my first JavaFX app.
 You can detect colors with your webcam and get hexadecimal color codes out of it.
