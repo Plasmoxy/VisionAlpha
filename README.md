@@ -10,3 +10,5 @@ Made with a wonderful material design library called [JFoenix](http://www.jfoeni
 - ( link it to project if you are working with sources )
   - you can get it by getting [OpenCV package for windows](https://opencv.org/releases.html)
 - libraries needed except OpenCV are in the lib folder
+
+![loading screenshot ...](SCREENSHOT.jpg)
